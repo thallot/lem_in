@@ -1,0 +1,10 @@
+140
+##start
+start 1 1
+##end
+end 2 2
+A 3 3
+C 5 5
+D 8 8
+F 12 12
+B 5 5
